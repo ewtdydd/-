@@ -1,0 +1,1 @@
+代码为wenet_hw,测试音频为test.wav和test_vad.wav,speech是录音文件，translate.text是翻译之后的文本文档
